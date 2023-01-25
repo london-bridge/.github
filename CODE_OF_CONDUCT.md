@@ -43,10 +43,11 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at https://contributor-covenant.org/version/2/1/code_of_conduct/.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], [version 2.1][version].
 
 For answers to common questions about this code of conduct, see [FAQ][faq].
 
 [email]: mailto:conduct@londonbridge.com.br
 [homepage]: https://contributor-covenant.org
+[version]: https://contributor-covenant.org/version/2/1/code_of_conduct/
 [faq]: https://contributor-covenant.org/faq
